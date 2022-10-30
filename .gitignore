@@ -1,0 +1,10 @@
+//git init: funciona para incializar en el git
+//git add .: funciona como guardar todo asta el ultimo commit
+//git commit -m "Primer commir": guardar una copia de seguridad del proyect
+//git checkout -- .: para recuperar la copia de seguridad "al ekecutarse se borra
+
+
+//si se borra la carpeta de no_modulos vastara con colocar el comando npm install y se reconstruira
+node_modules/
+
+/salida/*.txt
