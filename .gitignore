@@ -5,6 +5,8 @@
 
 
 //si se borra la carpeta de no_modulos vastara con colocar el comando npm install y se reconstruira
+
+
 node_modules/
 
 /salida/*.txt
