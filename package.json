@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "color": "^4.2.3",
+    "colors": "^1.4.0",
+    "init": "^0.1.2",
+    "yargs": "^17.6.0"
+  },
+  "name": "03-bases-node",
+  "version": "0.0.1",
+  "description": "Es una simple tabla de multiplicar con archivo txt",
+  "main": "app.js",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node app --base=3",
+    "cantidad5": "node app --cantidad=5"
+  },
+  "author": "Cesar Ceveriche",
+  "license": "MIT"
+}
